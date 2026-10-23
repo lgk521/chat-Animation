@@ -1,0 +1,14 @@
+node_modules/
+.DS_Store
+sts-creds.json
+sts-creds.sh
+.encryption_key
+.jwt_secret
+.mcp.json
+TREK/
+terraria-clone/
+terraria-game/
+task-kanban/
+.codeartsdoer/
+.agents/
+.merkle-snapshot.json
