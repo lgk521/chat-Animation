@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "skills": {
+    "huawei-cloud-publish-ict-work": {
+      "source": "https://gitcode.com/Lingxi-HandsOn/gallery.git",
+      "sourceUrl": "https://gitcode.com/Lingxi-HandsOn/gallery.git",
+      "sourceType": "git",
+      "skillPath": "skills/huawei-cloud-publish-ict-work/SKILL.md",
+      "computedHash": "b22a4a511479af8a2b579271267617dccfe9bf6f04cb7a12214f25fa52cef9b8"
+    },
+    "huawei-cloud-publish-work-to-gallery": {
+      "source": "https://gitcode.com/Lingxi-HandsOn/gallery.git",
+      "sourceUrl": "https://gitcode.com/Lingxi-HandsOn/gallery.git",
+      "sourceType": "git",
+      "skillPath": "skills/huawei-cloud-publish-work-to-gallery/SKILL.md",
+      "computedHash": "f1b9344363f04c6889c73eb7bde7dc04d4db63fb7277b8f790ba37e29ba49acc"
+    }
+  }
+}
